@@ -8,28 +8,18 @@ O que foi entregue
 
 O projeto completo inclui a página principal (landing page) com todas as seções institucionais e 4 páginas detalhadas de serviços, onde cada serviço da agência é apresentado com profundidade.
 
-Arquivo
-Descrição
-index.html
-Landing page principal com todas as seções do site
-style.css
-CSS principal — variáveis, layout, animações e efeitos
-servicos.css
-CSS compartilhado para as páginas de serviço
-script.js
-JavaScript com interatividade, animações e cursor personalizado
-servico-sites.html
-Página detalhada: Sites & Landing Pages
-servico-social-media.html
-Página detalhada: Posts para Redes Sociais
-servico-trafego.html
-Página detalhada: Tráfego Pago
-servico-video.html
-Página detalhada: Edição de Vídeo
-logo.webp
-Logo da DEMA otimizado em formato WebP
-campanhas/
-Pasta com imagens reais das campanhas da agência (portfólio)
+| Arquivo | Descrição |
+| --- | --- |
+| `index.html` | Landing page principal com todas as seções do site |
+| `style.css` | CSS principal — variáveis, layout, animações e efeitos |
+| `servicos.css` | CSS compartilhado para as páginas de serviço |
+| `script.js` | JavaScript com interatividade, animações e cursor personalizado |
+| `servico-sites.html` | Página detalhada: Sites & Landing Pages |
+| `servico-social-media.html` | Página detalhada: Posts para Redes Sociais |
+| `servico-trafego.html` | Página detalhada: Tráfego Pago |
+| `servico-video.html` | Página detalhada: Edição de Vídeo |
+| `logo.webp` | Logo da DEMA otimizado em formato WebP |
+| `campanhas/` | Pasta com imagens reais das campanhas da agência (portfólio) |
 
 
 
